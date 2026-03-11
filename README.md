@@ -1,14 +1,3 @@
-Claro. Vou te entregar já em formato pronto para criar o repositório.
-
-## Descrição do repositório
-
-**A practical step-by-step guide to configuring SSH access to GitHub on Linux servers and local machines, with examples for Alpine Linux and general Git setup.**
-
----
-
-## README.md completo
-
-````markdown
 # GitHub SSH Setup Guide
 
 A practical, beginner-friendly tutorial for configuring SSH access to GitHub on Linux servers and local machines.
@@ -64,7 +53,7 @@ For Alpine Linux, this tutorial assumes a minimal server environment.
 ```bash
 apk update
 apk add git openssh
-````
+```
 
 ### Debian / Ubuntu
 
